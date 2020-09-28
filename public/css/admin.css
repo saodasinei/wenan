@@ -1,0 +1,15 @@
+.layui-card{
+    margin-top:20px;
+    margin-left:20px;
+    border: 1px solid #888888 ;
+    box-shadow: 3px 3px 3px #888888;
+}
+#addproject{
+    margin-top:20px;
+    margin-left:20px;
+}
+.layui-form{
+    width:600px;
+    margin-left:100px;
+    margin-top:20px;
+}

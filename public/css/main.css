@@ -1,0 +1,12 @@
+.layui-container{
+      width:100%;
+}
+.layui-logo{
+	margin-left:42%;
+	padding-top:10px;
+	font-size:20px;
+    font-weight:bold;
+}
+#user{
+     margin-left:80%;
+}

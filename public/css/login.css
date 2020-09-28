@@ -1,0 +1,56 @@
+html body{
+	background-color:#e2e2e2;
+}
+label{
+	margin-top:20px;
+}
+
+/*login*/
+#login_card{
+	width:50%;
+	height:520px;
+	margin:auto;
+	margin-top:15%;
+}
+#login-content{
+	margin-top:40px;
+	margin-left:20px;
+}
+#login-title{
+	margin-left:35%;
+	padding-top:30px;
+}
+.layui-card-header{
+	text-align:center;
+	font-size:20px;
+	font-weight:bolder;
+}
+#logo{
+	width:90px;
+	height:40px;
+}
+.layui-input-block{
+	margin-top:20px;
+}
+.layui-input-block{
+	width:300px;
+}
+.login-link{
+	color:#1E9FFF;
+	margin-left:350px;
+}
+.register-link{
+	color:#1E9FFF;
+}
+button{
+	width:300px;
+}
+#register{
+	margin-left:300px;
+}
+/*register*/
+#vcode-button{
+	margin-top:10px;
+	margin-left:190px;
+}
+
